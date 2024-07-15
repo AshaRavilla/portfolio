@@ -3,7 +3,7 @@ Greetings! My name is Asha, and I'm excited to share data engineer portfolio. Wi
 
 ## Projects
 
-### 1. [Kafka Stock Market Project](https://github.com/YourUsername/YourProjectRepo)
+### 1. [Kafka Stock Market Project](https://github.com/AshaRavilla/stock-market-kafka-data-engineering-project)
 - **Description:** This project demonstrates the use of Apache Kafka for real-time data streaming and processing.
 - **Technologies Used:** Python, AWS, Apache Kafka, Glue, Athena, SQL.
 - **Dataset:** [Dataset Link](https://github.com/AshaRavilla/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv)
