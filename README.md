@@ -17,12 +17,12 @@ Greetings! My name is Asha, and I'm excited to share my portfolio showcasing pro
 
 ### Data Science and Machine Learning Projects
 
-#### 1. [Black Friday Sales Prediction](https://github.com/YourUsername/black-friday-sales-prediction)
+#### 1. [Black Friday Sales Prediction](https://github.com/AshaRavilla/black-friday-sales-prediction)
 - **Description:** Predicts purchase amounts based on customer demographics and product details.
 - **Technologies Used:** Python, Pandas, Scikit-learn, XGBoost.
 - **Dataset:** [Dataset Link](https://github.com/YourUsername/black-friday-sales-prediction)
 
-#### 2. Link Prediction Project (Confidential)
+#### 2. Link Prediction Project (Confidential)[ink Prediction Project](https://github.com/AshaRavilla/link_prediction_project)
 - **Description:** A research project aimed at predicting network organization links as continuous, missed, new, or no-links.
 - **Role:** Responsible for data cleaning, feature engineering, experimenting with classification models, and co-authoring a research paper.
 - **Technologies Used:** Python, various classification models.
