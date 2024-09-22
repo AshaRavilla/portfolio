@@ -1,6 +1,10 @@
-# My Data Engineering and Data Science Portfolio
+# 🛠️ My Data Engineering and Data Science Portfolio
 
-Greetings! My name is Asha, and I'm excited to share my portfolio showcasing projects in Data Engineering, Data Science, and Machine Learning. Each project highlights my skills and experiences across these dynamic fields.
+👋 Hi! I'm **Asha**, a passionate **Data Engineer** with experience in building **scalable data pipelines**, real-time data processing, and cloud infrastructure. This portfolio showcases my key projects, highlighting how I've leveraged tools like **AWS**, **Apache Spark**, **Kafka**, and **Snowflake** to solve complex data challenges.
+
+🔗 [**Explore My GitHub Profile**](https://github.com/AshaRavilla) | [**Contact Me on LinkedIn**](https://www.linkedin.com/in/asha-ravilla/)
+
+
 
 ## Projects
 
