@@ -15,7 +15,7 @@
 
 ## Projects
 
-## Data Engineering Projects
+### Data Engineering Projects
 
 | Project Name                           | Description                                                             | Technologies Used                                                                                          | Outcome                                                   |
 | -------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
@@ -88,7 +88,7 @@
 - Streamlined the data flow between **Snowflake** and **S3**, enabling faster downstream analytics.
 
 
-## Data Science and Machine Learning Projects
+### Data Science and Machine Learning Projects
 
 | Project Name                           | Description                                                             | Technologies Used                                                                                          | Outcome                                                   |
 | -------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
