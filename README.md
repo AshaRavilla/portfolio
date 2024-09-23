@@ -5,11 +5,11 @@
 🔗 [**Explore My GitHub Profile**](https://github.com/AshaRavilla) | [**Contact Me on LinkedIn**](https://www.linkedin.com/in/asha-ravilla/)
 
 ## 📑 Table of Contents
-- [Data Engineering Projects](#data-engineering-projects)
+- [Data Engineering Projects](#🌟-data-engineering-projects)
   - [YouTube Trending Data Pipeline](#1-youtube-trending-data-pipeline)
   - [Kafka Stock Market Data Pipeline](#2-kafka-stock-market-data-pipeline)
   - [Snowflake to S3 Data Transfer](#3-snowflake-to-s3-data-transfer-using-aws-glue)
-- [Data Science and Machine Learning Projects](#Data-Science-and-Machine-Learning-Projects)
+- [Data Science and Machine Learning Projects](#🌍-data-science-and-machine-learning-projects)
   - [Black Friday Sales Prediction](#1-black-friday-sales-prediction)
   - [Link Prediction Project](#2-link-prediction-project)
 
