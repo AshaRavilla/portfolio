@@ -137,25 +137,10 @@
 - Improved model precision for link prediction by 12% after applying advanced feature selection techniques.
 - Published research paper presenting insights on network organization and link prediction accuracy.
 
-# 🛠️ My Data Engineering and Data Science Portfolio
-
-👋 Hi! I'm **Asha**, a passionate **Data Engineer** with experience in building **scalable data pipelines**, real-time data processing, and cloud infrastructure. This portfolio showcases my key projects, highlighting how I've leveraged tools like **AWS**, **Apache Spark**, **Kafka**, and **Snowflake** to solve complex data challenges.
 
 🔗 [**Explore My GitHub Profile**](https://github.com/AshaRavilla) | [**Contact Me on LinkedIn**](https://www.linkedin.com/in/asha-ravilla/)
 
 ---
-
-## 📑 Table of Contents
-- [Data Engineering Projects](#data-engineering-projects)
-  - [YouTube Trending Data Pipeline](#1-youtube-trending-data-pipeline)
-  - [Kafka Stock Market Data Pipeline](#2-kafka-stock-market-data-pipeline)
-  - [Snowflake to S3 Data Transfer](#3-snowflake-to-s3-data-transfer-using-aws-glue)
-- [Data Science and Machine Learning Projects](#data-science-and-machine-learning-projects)
-  - [Black Friday Sales Prediction](#1-black-friday-sales-prediction)
-  - [Link Prediction Project](#2-link-prediction-project)
-
----
-
 
 ## GitHub Activity
 
@@ -165,6 +150,6 @@
 
 ## Let's Connect!
 If you're interested in discussing my projects or have an exciting opportunity in data engineering, feel free to reach out.  
-📧 Email me at [your-email@example.com](mailto:your-email@example.com) | 💼 [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
+ 💼 [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
 
 
