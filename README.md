@@ -88,13 +88,12 @@
 - Streamlined the data flow between **Snowflake** and **S3**, enabling faster downstream analytics.
 
 
-### Data Science and Machine Learning Projects
 ## 🌍 Data Science and Machine Learning Projects
 
 | Project Name                           | Description                                                             | Technologies Used                                                                                          | Outcome                                                   |
 | -------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Black Friday Sales Prediction](https://github.com/AshaRavilla/black-friday-sales-prediction)     | Predicted purchase amounts during Black Friday sales using regression models. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat) | Improved model accuracy by 15%. Provided actionable customer insights. |
-| [Link Prediction Project](https://github.com/AshaRavilla/link_prediction_project)           | Research project predicting links between nodes in a network.            | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat) ![Classification Models](https://img.shields.io/badge/-Classification_Models-1F77B4?style=flat) | Improved model precision by 12%. Published research paper. |
+| [Black Friday Sales Prediction](#1-black-friday-sales-prediction)     | Predicted purchase amounts during Black Friday sales using regression models. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat) | Improved model accuracy by 15%. Provided actionable customer insights. |
+| [Link Prediction Project](#2-link-prediction-project)           | Research project predicting links between nodes in a network.            | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat) ![Classification Models](https://img.shields.io/badge/-Classification_Models-1F77B4?style=flat) | Improved model precision by 12%. Published research paper. |
 
 ---
 
