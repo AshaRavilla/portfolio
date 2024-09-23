@@ -5,17 +5,17 @@
 🔗 [**Explore My GitHub Profile**](https://github.com/AshaRavilla) | [**Contact Me on LinkedIn**](https://www.linkedin.com/in/asha-ravilla/)
 
 ## 📑 Table of Contents
-- [Data Engineering Projects](#🌟-data-engineering-projects)
+- [Data Engineering Projects](#data-engineering-projects)
   - [YouTube Trending Data Pipeline](#1-youtube-trending-data-pipeline)
   - [Kafka Stock Market Data Pipeline](#2-kafka-stock-market-data-pipeline)
   - [Snowflake to S3 Data Transfer](#3-snowflake-to-s3-data-transfer-using-aws-glue)
-- [Data Science and Machine Learning Projects](#🌍-data-science-and-machine-learning-projects)
+- [Data Science and Machine Learning Projects](#data-science-and-machine-learning-projects)
   - [Black Friday Sales Prediction](#1-black-friday-sales-prediction)
   - [Link Prediction Project](#2-link-prediction-project)
 
 ## Projects
 
-## 🌟 Data Engineering Projects
+## Data Engineering Projects
 
 | Project Name                           | Description                                                             | Technologies Used                                                                                          | Outcome                                                   |
 | -------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
@@ -88,7 +88,7 @@
 - Streamlined the data flow between **Snowflake** and **S3**, enabling faster downstream analytics.
 
 
-## 🌍 Data Science and Machine Learning Projects
+## Data Science and Machine Learning Projects
 
 | Project Name                           | Description                                                             | Technologies Used                                                                                          | Outcome                                                   |
 | -------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
@@ -137,9 +137,6 @@
 - Improved model precision for link prediction by 12% after applying advanced feature selection techniques.
 - Published research paper presenting insights on network organization and link prediction accuracy.
 
-
-🔗 [**Explore My GitHub Profile**](https://github.com/AshaRavilla) | [**Contact Me on LinkedIn**](https://www.linkedin.com/in/asha-ravilla/)
-
 ---
 
 ## GitHub Activity
@@ -149,7 +146,8 @@
 ---
 
 ## Let's Connect!
-If you're interested in discussing my projects or have an exciting opportunity in data engineering, feel free to reach out.  
- 💼 [LinkedIn](https://www.linkedin.com/in/asha-ravilla/)
+If you're interested in discussing my projects or have an exciting opportunity in **Data Engineering**, I'd love to connect.  
 
+📧 **Email**: [ashalatha579@gmail.com](mailto:ashalatha579@gmail.com)  
+💼 **LinkedIn**: [Asha Ravilla](https://www.linkedin.com/in/asha-ravilla/)
 
